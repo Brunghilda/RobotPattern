@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RobotTest</string>
+    <string name="home_description">Home Screen</string>
+    <string name="login_failed">Login failed</string>
+    <string name="try_again">Try again</string>
+    <string name="my_awesome_app_name">My awesome App</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="password_repeat">Password repeat</string>
+    <string name="login">Login</string>
+    <string name="not_yet_registered">Not yet registered? Register</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an account? Login</string>
+</resources>
